@@ -1,4 +1,4 @@
-- 👋 Hi, I’m gdion samuel
+- 👋 Hi, I’m gedion samuel
 - 👀 I’m interested in developing softwares and websites
 - 🌱 I’m currently learning software engineering in Addis Ababa science and technology university
 - 💞️ I’m looking to collaborate on working as team with other developers
